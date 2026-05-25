@@ -1,6 +1,6 @@
 <div class="page active" id="page-about">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1400&q=80" alt="About Solution360"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/about-banner.jfif') ?>" alt="About Solution360"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span class="current">About Us</span></div>
       <h1 class="page-hero-title">We Are <span style="color:var(--accent)">Solution360</span></h1>
@@ -12,7 +12,7 @@
       <div class="row g-5 align-items-center mb-5">
         <div class="col-lg-6 reveal">
           <div class="about-img-block">
-            <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" alt="Solution360 Team">
+            <img src="<?= base_url('assets/images/about-img.jfif') ?>" alt="Solution360 Team">
             <div class="about-badge"><div class="about-badge-num">10+</div><div class="about-badge-text">Years of Excellence</div></div>
           </div>
         </div>

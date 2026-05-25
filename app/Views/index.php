@@ -27,7 +27,7 @@
           <div class="hero-visual">
             <div class="hero-visual-card">
               <div class="hero-visual-inner">
-                <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80" alt="Outdoor billboard advertising India">
+                <img src="<?= base_url('assets/images/hero-img.jfif') ?>" alt="Outdoor billboard advertising India">
               </div>
               <div class="hero-floating-badge top-left">🏙️ 18+ Cities</div>
               <div class="hero-floating-badge bottom-right">🎯 500+ Campaigns</div>
@@ -71,7 +71,7 @@
         <!-- Row 1: Highlight Services -->
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/rwa-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=600&q=80" alt="RWA Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-1.jfif') ?>" alt="RWA Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-buildings-fill"></i></div>
               <h4>RWA Advertising</h4>
@@ -82,7 +82,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/newspaper-insert') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80" alt="Newspaper Insert Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-2.jfif') ?>" alt="Newspaper Insert Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-file-earmark-text-fill"></i></div>
               <h4>Newspaper Insert</h4>
@@ -93,7 +93,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-2">
           <a href="<?= base_url('services/print-media') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&q=80" alt="Print Media Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-3.jfif') ?>" alt="Print Media Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-newspaper"></i></div>
               <h4>Print Media</h4>
@@ -104,7 +104,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/lookwalker') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&q=80" alt="Lookwalker Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-4.jfif') ?>" alt="Lookwalker Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-person-walking"></i></div>
               <h4>Lookwalker</h4>
@@ -115,7 +115,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/customer-acquisition') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1556761175-4b46a572b786?w=600&q=80" alt="Customer Acquisition Activities"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-5.jfif') ?>" alt="Customer Acquisition Activities"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-people-fill"></i></div>
               <h4>Customer Acquisition</h4>
@@ -127,7 +127,7 @@
         <!-- Row 2: Other Services -->
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-2">
           <a href="<?= base_url('services/outdoor-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1555689502-c4b22d76c56f?w=600&q=80" alt="Outdoor Billboard Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-6.jfif') ?>" alt="Outdoor Billboard Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-geo-alt-fill"></i></div>
               <h4>Outdoor Advertising</h4>
@@ -138,7 +138,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/cinema-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=80" alt="Cinema Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-7.jfif') ?>" alt="Cinema Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-camera-reels-fill"></i></div>
               <h4>Cinema Advertising</h4>
@@ -149,7 +149,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/radio-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=600&q=80" alt="Radio Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-8.jfif') ?>" alt="Radio Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-broadcast"></i></div>
               <h4>Radio Advertising</h4>
@@ -191,32 +191,32 @@
       </div>
       <div class="portfolio-grid">
         <div class="portfolio-item reveal">
-          <div class="portfolio-item-bg"><img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=600&q=80" alt="Outdoor Campaign Mumbai"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-1.jfif') ?>" alt="Outdoor Campaign Mumbai"></div>
           <div class="portfolio-category-badge">Outdoor</div>
           <div class="portfolio-overlay"><div><h5>TechCorp Highway Campaign</h5><span>Outdoor · Mumbai</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-1">
-          <div class="portfolio-item-bg"><img src="https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?w=600&q=80" alt="Cinema Campaign Delhi"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-2.jfif') ?>" alt="Cinema Campaign Delhi"></div>
           <div class="portfolio-category-badge">Cinema</div>
           <div class="portfolio-overlay"><div><h5>FashionBrand PVR Blitz</h5><span>Cinema · Delhi NCR</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-2">
-          <div class="portfolio-item-bg"><img src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&q=80" alt="Print Media Campaign"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-3.jfif') ?>" alt="Print Media Campaign"></div>
           <div class="portfolio-category-badge">Print</div>
           <div class="portfolio-overlay"><div><h5>FinTech TOI Full-Page</h5><span>Print · Pan India</span></div></div>
         </div>
         <div class="portfolio-item reveal">
-          <div class="portfolio-item-bg"><img src="https://images.unsplash.com/photo-1593078165899-c7d2ac0d6aea?w=600&q=80" alt="Radio Campaign Bangalore"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-4.jfif') ?>" alt="Radio Campaign Bangalore"></div>
           <div class="portfolio-category-badge">Radio</div>
           <div class="portfolio-overlay"><div><h5>EduTech FM Drive</h5><span>Radio · Bangalore</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-1">
-          <div class="portfolio-item-bg"><img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80" alt="360 Integrated Campaign Hyderabad"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-5.jfif') ?>" alt="360 Integrated Campaign Hyderabad"></div>
           <div class="portfolio-category-badge" style="background:#1a1a1a">360°</div>
           <div class="portfolio-overlay"><div><h5>RetailChain 360° Blitz</h5><span>Integrated · Hyderabad</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-2">
-          <div class="portfolio-item-bg"><img src="https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=600&q=80" alt="Transit Advertising Chennai"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-6.jfif') ?>" alt="Transit Advertising Chennai"></div>
           <div class="portfolio-category-badge">Transit</div>
           <div class="portfolio-overlay"><div><h5>Metro Transit Campaign</h5><span>Outdoor · Chennai</span></div></div>
         </div>

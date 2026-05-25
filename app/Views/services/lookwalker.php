@@ -1,6 +1,6 @@
 <div class="page active" id="page-lookwalker">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1400&q=80" alt="Lookwalker Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-4.jfif') ?>" alt="Lookwalker Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Lookwalker</span></div>
       <h1 class="page-hero-title">Lookwalker <span style="color:var(--accent)">Advertising</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Solution360 deploys trained Lookwalker teams across busy zones to maximise your brand's visibility with near 100% attention rate. The mobility factor means your ad literally goes where your audience is.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80" alt="Lookwalker Campaign"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-4.jfif') ?>" alt="Lookwalker Campaign"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&q=80" alt="Lookwalker 1"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80" alt="Lookwalker 2"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&q=80" alt="Lookwalker 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-4.jfif') ?>" alt="Lookwalker 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-4.jfif') ?>" alt="Lookwalker 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-4-3.jfif') ?>" alt="Lookwalker 3"></div>
         </div>
       </div>
     </div>

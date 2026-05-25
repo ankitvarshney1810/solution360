@@ -1,6 +1,6 @@
 <div class="page active" id="page-cinema">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1400&q=80" alt="Cinema Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-7.jfif') ?>" alt="Cinema Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Cinema Advertising</span></div>
       <h1 class="page-hero-title">Cinema <span style="color:var(--accent)">Advertising</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Whether it's a 30-second pre-show ad or a creative slide in the interval, cinema advertising delivers unmatched attention in a premium, brand-safe environment.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?w=800&q=80" alt="Cinema Multiplex India"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-7.jfif') ?>" alt="Cinema Multiplex India"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=80" alt="Cinema 1"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1585647347483-22b66260dfff?w=600&q=80" alt="Cinema 2"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=600&q=80" alt="Cinema 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-7-1.jfif') ?>" alt="Cinema 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-7-2.jfif') ?>" alt="Cinema 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-7-3.jfif') ?>" alt="Cinema 3"></div>
         </div>
       </div>
     </div>

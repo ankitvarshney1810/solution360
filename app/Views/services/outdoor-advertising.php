@@ -1,6 +1,6 @@
 <div class="page active" id="page-outdoor">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1400&q=80" alt="Outdoor Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-6.jfif') ?>" alt="Outdoor Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Outdoor Advertising</span></div>
       <h1 class="page-hero-title">Outdoor <span style="color:var(--accent)">Advertising</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">From high-traffic expressway billboards to bus shelter panels and transit wraps, we ensure your brand is seen by the right audience, in the right locations, at the right scale.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="https://images.unsplash.com/photo-1444084316533-02b6da6e8a11?w=800&q=80" alt="Billboard Advertising India"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-6.jfif') ?>" alt="Billboard Advertising India"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1557697699-a10de73e6a6b?w=600&q=80" alt="Billboard 1"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=80" alt="Billboard Cityscape"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80" alt="Outdoor Ad 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-6.jfif') ?>" alt="Billboard 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-6.jfif') ?>" alt="Billboard Cityscape"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-2.jfif') ?>" alt="Outdoor Ad 3"></div>
         </div>
       </div>
     </div>

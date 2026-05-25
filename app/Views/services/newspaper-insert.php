@@ -1,6 +1,6 @@
 <div class="page active" id="page-newspaper">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1400&q=80" alt="Newspaper Insert Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-2.jfif') ?>" alt="Newspaper Insert Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Newspaper Insert</span></div>
       <h1 class="page-hero-title">Newspaper <span style="color:var(--accent)">Insert</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Solution360 manages insert campaigns across all major Indian dailies — Times of India, Hindustan Times, Dainik Bhaskar and more — with pin-code-level targeting to ensure your offer reaches the right homes.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="https://images.unsplash.com/photo-1585282263861-f55e341878f8?w=800&q=80" alt="Newspaper Insert Campaign"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-2.jfif') ?>" alt="Newspaper Insert Campaign"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80" alt="Newspaper Insert 1"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1585282263861-f55e341878f8?w=600&q=80" alt="Newspaper Insert 2"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=600&q=80" alt="Newspaper Insert 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-2.jfif') ?>" alt="Newspaper Insert 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-2.jfif') ?>" alt="Newspaper Insert 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-2-3.jfif') ?>" alt="Newspaper Insert 3"></div>
         </div>
       </div>
     </div>

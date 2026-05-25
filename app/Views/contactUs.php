@@ -1,6 +1,6 @@
 <div class="page active" id="page-contact">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1400&q=80" alt="Contact Solution360"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/contact-banner.jfif') ?>" alt="Contact Solution360"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span class="current">Contact Us</span></div>
       <h1 class="page-hero-title">Let's <span style="color:var(--accent)">Connect</span></h1>

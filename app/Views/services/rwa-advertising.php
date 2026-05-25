@@ -1,6 +1,6 @@
 <div class="page active" id="page-rwa">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1400&q=80" alt="RWA Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-1.jfif') ?>" alt="RWA Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">RWA Advertising</span></div>
       <h1 class="page-hero-title">RWA <span style="color:var(--accent)">Advertising</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">From notice board ads and gate branding to society events and lift panels, we ensure your message reaches families in a trusted, community environment where brand recall is exceptionally high.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80" alt="RWA Housing Society Advertising"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-1.jfif') ?>" alt="RWA Housing Society Advertising"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=600&q=80" alt="RWA Society 1"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80" alt="RWA Society 2"></div>
-          <div class="service-gallery-item"><img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80" alt="RWA Society 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-1.jfif') ?>" alt="RWA Society 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-1.jfif') ?>" alt="RWA Society 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-1-3.jfif') ?>" alt="RWA Society 3"></div>
         </div>
       </div>
     </div>
