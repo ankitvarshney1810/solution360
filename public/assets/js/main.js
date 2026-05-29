@@ -100,7 +100,7 @@ function resetContactForm() {
 }
 
 // CLOSE MOBILE NAV ON LINK CLICK
-document.querySelectorAll('.nav-link-custom, .dropdown-item-custom, .footer-link').forEach(link => {
+document.querySelectorAll('.dropdown-item-custom, .footer-link').forEach(link => {
   link.addEventListener('click', () => {
     const menu = document.getElementById('navMenu');
     if (menu.classList.contains('open')) {
@@ -113,4 +113,10 @@ document.querySelectorAll('.nav-link-custom, .dropdown-item-custom, .footer-link
 // INIT
 document.addEventListener('DOMContentLoaded', function() {
   observeReveal();
+});
+
+$(document).ready(function() {
+  $('.nav-link-custom').on('click', function() {
+    $('.services-dropdown').css('display', 'block');
+  });
 });
