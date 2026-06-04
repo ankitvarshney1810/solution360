@@ -14,10 +14,12 @@
             <a href="<?= base_url('services/newspaper-insert') ?>" class="dropdown-item-custom"><i class="bi bi-file-earmark-text-fill"></i> Newspaper Insert</a>
             <a href="<?= base_url('services/print-media') ?>" class="dropdown-item-custom"><i class="bi bi-newspaper"></i> Print Media</a>
             <a href="<?= base_url('services/lookwalker') ?>" class="dropdown-item-custom"><i class="bi bi-person-walking"></i> Lookwalker</a>
-            <a href="<?= base_url('services/customer-acquisition') ?>" class="dropdown-item-custom"><i class="bi bi-people-fill"></i> Customer Acquisition</a>
+            <a href="<?= base_url('services/customer-acquisition') ?>" class="dropdown-item-custom"><i class="bi bi-people-fill"></i> Customer Acquisition Campaigns</a>
             <a href="<?= base_url('services/outdoor-advertising') ?>" class="dropdown-item-custom"><i class="bi bi-geo-alt-fill"></i> Outdoor Advertising</a>
             <a href="<?= base_url('services/cinema-advertising') ?>" class="dropdown-item-custom"><i class="bi bi-camera-reels-fill"></i> Cinema Advertising</a>
             <a href="<?= base_url('services/radio-advertising') ?>" class="dropdown-item-custom"><i class="bi bi-broadcast"></i> Radio Advertising</a>
+            <a href="<?= base_url('services/rural-marketing') ?>" class="dropdown-item-custom"><i class="bi bi-people-fill"></i> Rural Marketing</a>
+            <a href="<?= base_url('services/transit-media') ?>" class="dropdown-item-custom"><i class="bi bi-bus-front-fill"></i> Transit media</a>
           </div>
         </div>
         <a href="<?= base_url('main/portfolio') ?>" class="nav-link-custom">Portfolio</a>

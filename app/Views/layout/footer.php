@@ -8,7 +8,7 @@
                     <div class="footer-brand" style="margin-bottom:14px">
                         <img src="<?= base_url('assets/images/logo.png') ?>" alt="Solution360" style="height:85px;width:auto;object-fit:contain;filter:brightness(0) invert(1)">
                     </div>
-                    <p class="footer-desc">India's bold offline advertising agency crafting campaigns that demand attention — from highways to cinema halls, print to airwaves.</p>
+                    <p class="footer-desc">India's bold offline advertising agency crafting campaigns that demand attention — from highways to cinema halls.</p>
                     <div class="footer-social">
                         <a href="https://www.linkedin.com/company/solution360advertisment/" target="_blank" class="social-btn"><i class="bi bi-linkedin"></i></a>
                         <a href="https://www.instagram.com/solution360india" target="_blank" class="social-btn"><i class="bi bi-instagram"></i></a>
@@ -27,10 +27,12 @@
                   <a href="<?= base_url('services/newspaper-insert') ?>" class="footer-link">Newspaper Insert</a>
                   <a href="<?= base_url('services/print-media') ?>" class="footer-link">Print Media</a>
                   <a href="<?= base_url('services/lookwalker') ?>" class="footer-link">Lookwalker</a>
-                  <a href="<?= base_url('services/customer-acquisition') ?>" class="footer-link">Customer Acquisition</a>
-                  <a href="<?= base_url('services/outdoor-advertising') ?>" class="footer-link">Outdoor</a>
-                  <a href="<?= base_url('services/cinema-advertising') ?>" class="footer-link">Cinema</a>
-                  <a href="<?= base_url('services/radio-advertising') ?>" class="footer-link">Radio</a>
+                  <a href="<?= base_url('services/customer-acquisition') ?>" class="footer-link">Customer Acquisition Campaigns</a>
+                  <a href="<?= base_url('services/outdoor-advertising') ?>" class="footer-link">Outdoor Advertising</a>
+                  <a href="<?= base_url('services/cinema-advertising') ?>" class="footer-link">Cinema Advertising</a>
+                  <a href="<?= base_url('services/radio-advertising') ?>" class="footer-link">Radio Advertising</a>
+                  <a href="<?= base_url('services/rural-marketing') ?>" class="footer-link">Rural Marketing</a>
+                  <a href="<?= base_url('services/transit-media') ?>" class="footer-link">Transit media</a>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-heading">Contact Info</div>

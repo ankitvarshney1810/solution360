@@ -77,7 +77,7 @@ class Main extends BaseController
             ],
 
             'customer-acquisition' => [
-                'title' => 'Customer Acquisition',
+                'title' => 'Customer Acquisition Campaigns',
                 'view'  => 'services/customer-acquisition',
             ],
 
@@ -94,6 +94,16 @@ class Main extends BaseController
             'radio-advertising' => [
                 'title' => 'Radio Advertising',
                 'view'  => 'services/radio-advertising',
+            ],
+
+            'rural-marketing' => [
+                'title' => 'Rural Marketing',
+                'view'  => 'services/rural-marketing',
+            ],
+
+            'transit-media' => [
+                'title' => 'Transit media',
+                'view'  => 'services/transit-media',
             ],
 
         ];

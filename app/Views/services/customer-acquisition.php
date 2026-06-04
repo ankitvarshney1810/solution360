@@ -1,8 +1,8 @@
 <div class="page active" id="page-customeracq">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-5.jfif') ?>" alt="Customer Acquisition Activities"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-5.jfif') ?>" alt="Customer Acquisition Campaigns Activities"></div>
     <div class="container position-relative">
-      <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Customer Acquisition</span></div>
+      <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Customer Acquisition Campaigns</span></div>
       <h1 class="page-hero-title">Customer <span style="color:var(--accent)">Acquisition</span></h1>
       <p style="color:rgba(255,255,255,0.5);font-size:1rem;margin-top:14px;max-width:500px">BTL activations & on-ground events that convert prospects into loyal customers.</p>
     </div>
@@ -11,9 +11,9 @@
     <div class="container">
       <div class="row g-5 align-items-center mb-5">
         <div class="col-lg-6 reveal">
-          <div class="section-tag">Customer Acquisition Activities</div>
+          <div class="section-tag">Customer Acquisition Campaigns Activities</div>
           <h2 class="section-heading mb-4">Turn Footfall Into <span class="accent">Loyal Customers</span></h2>
-          <p style="color:var(--gray);font-size:0.92rem;line-height:1.85;margin-bottom:20px">Customer Acquisition Activities (CAA) are on-ground BTL (Below-the-Line) campaigns that go beyond awareness — they directly engage, interact, and convert your target audience into paying customers. Solution360 designs and executes these campaigns with trained field teams across India.</p>
+          <p style="color:var(--gray);font-size:0.92rem;line-height:1.85;margin-bottom:20px">Customer Acquisition Campaigns Activities (CAA) are on-ground BTL (Below-the-Line) campaigns that go beyond awareness — they directly engage, interact, and convert your target audience into paying customers. Solution360 designs and executes these campaigns with trained field teams across India.</p>
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Whether it's door-to-door campaigns, product sampling, street activations, kiosk setups, or referral drives within RWAs and housing societies — we build a pipeline of real customers for your brand.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">

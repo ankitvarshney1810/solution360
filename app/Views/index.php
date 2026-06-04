@@ -115,10 +115,10 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/customer-acquisition') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-5.jfif') ?>" alt="Customer Acquisition Activities"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-5.jfif') ?>" alt="Customer Acquisition Campaigns Activities"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-people-fill"></i></div>
-              <h4>Customer Acquisition</h4>
+              <h4>Customer Acquisition Campaigns</h4>
               <p>On-ground activation events, BTL activities and direct engagement to convert prospects into customers.</p>
               <div class="service-card-arrow">Explore <i class="bi bi-arrow-right"></i></div>
             </div>
