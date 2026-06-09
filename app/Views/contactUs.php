@@ -57,8 +57,8 @@
             <div class="section-tag">Get in Touch</div>
             <h3 style="font-size:1.3rem;font-weight:800;color:var(--white);margin-bottom:28px">We respond within<br><span style="color:var(--accent)">24 hours</span></h3>
             <div class="contact-info-item"><div class="label">Our Office</div><div class="value">113/6, Hari Nagar, Ext-II,<br>Badarpur, South Delhi,<br>Delhi – 110044</div></div>
-            <div class="contact-info-item"><div class="label">Call Us</div><div class="value">+91-8377954127</div></div>
-            <div class="contact-info-item"><div class="label">Email Us</div><div class="value">solution360india@gmail.com</div></div>
+            <a href="tel:+918377954127" class="contact-info-item"><div class="label">Call Us</div><div class="value">+91-8377954127</div></a>
+            <a href="mailto:solution360india@gmail.com" class="contact-info-item"><div class="label">Email Us</div><div class="value">solution360india@gmail.com</div></a>
             <div class="contact-info-item"><div class="label">Working Hours</div><div class="value">Monday – Saturday<br>9:00 AM – 7:00 PM IST</div></div>
             <div style="border-top:1px solid rgba(255,255,255,0.08);padding-top:24px;margin-top:8px">
               <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.35);margin-bottom:14px">Our Strengths</div>

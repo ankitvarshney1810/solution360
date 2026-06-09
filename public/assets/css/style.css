@@ -1504,7 +1504,9 @@ body {
 }
 
 .contact-info-item {
+	display: block;
 	margin-bottom: 28px;
+	text-decoration: none;
 }
 
 .contact-info-item .label {
