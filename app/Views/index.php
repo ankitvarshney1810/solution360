@@ -27,7 +27,7 @@
           <div class="hero-visual">
             <div class="hero-visual-card">
               <div class="hero-visual-inner">
-                <img src="<?= base_url('assets/images/hero-img.jfif') ?>" alt="Outdoor billboard advertising India">
+                <img src="<?= base_url('assets/images/hero-img.png') ?>" alt="Outdoor billboard advertising India">
               </div>
               <div class="hero-floating-badge top-left">🏙️ 18+ Cities</div>
               <div class="hero-floating-badge bottom-right">🎯 500+ Campaigns</div>
@@ -71,7 +71,7 @@
         <!-- Row 1: Highlight Services -->
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/rwa-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-1.jfif') ?>" alt="RWA Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/rwa2.jpeg') ?>" alt="RWA Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-buildings-fill"></i></div>
               <h4>RWA Advertising</h4>
@@ -82,7 +82,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/newspaper-insert') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-2.jfif') ?>" alt="Newspaper Insert Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/newspaper.jpg') ?>" alt="Newspaper Insert Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-file-earmark-text-fill"></i></div>
               <h4>Newspaper Insert</h4>
@@ -93,7 +93,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-2">
           <a href="<?= base_url('services/print-media') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-3.jfif') ?>" alt="Print Media Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/printmedia.jpeg') ?>" alt="Print Media Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-newspaper"></i></div>
               <h4>Print Media</h4>
@@ -104,7 +104,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/lookwalker') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-4.jfif') ?>" alt="Lookwalker Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/lookwalker.jpeg') ?>" alt="Lookwalker Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-person-walking"></i></div>
               <h4>Lookwalker</h4>
@@ -127,7 +127,7 @@
         <!-- Row 2: Other Services -->
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-2">
           <a href="<?= base_url('services/outdoor-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-6.jfif') ?>" alt="Outdoor Billboard Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/billboard.jpeg') ?>" alt="Outdoor Billboard Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-geo-alt-fill"></i></div>
               <h4>Outdoor Advertising</h4>
@@ -138,7 +138,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/cinema-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-7.jfif') ?>" alt="Cinema Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/cinema.png') ?>" alt="Cinema Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-camera-reels-fill"></i></div>
               <h4>Cinema Advertising</h4>
@@ -149,7 +149,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/radio-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-8.jfif') ?>" alt="Radio Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/radio.jpeg') ?>" alt="Radio Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-broadcast"></i></div>
               <h4>Radio Advertising</h4>

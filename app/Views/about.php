@@ -12,7 +12,7 @@
       <div class="row g-5 align-items-center mb-5">
         <div class="col-lg-6 reveal">
           <div class="about-img-block">
-            <img src="<?= base_url('assets/images/about-img.jfif') ?>" alt="Solution360 Team">
+            <img src="<?= base_url('assets/images/team.png') ?>" alt="Solution360 Team">
             <div class="about-badge"><div class="about-badge-num">10+</div><div class="about-badge-text">Years of Excellence</div></div>
           </div>
         </div>
