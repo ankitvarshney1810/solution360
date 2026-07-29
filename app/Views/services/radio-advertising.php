@@ -1,6 +1,6 @@
 <div class="page active" id="page-radio">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-8.jfif') ?>" alt="Radio Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/radio02.jpeg') ?>" alt="Radio Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Radio Advertising</span></div>
       <h1 class="page-hero-title">Radio <span style="color:var(--accent)">Advertising</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Solution360 works with all leading FM networks — Radio Mirchi, Red FM, Big FM, and more — to create and place jingles, spots, and sponsorships that make your brand unmissable on the airwaves.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-8.jfif') ?>" alt="Radio Studio India"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/radio.jpeg') ?>" alt="Radio Studio India"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,7 +44,7 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-8-1.jfif') ?>" alt="Radio Studio 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/radio02.jpeg') ?>" alt="Radio Studio 1"></div>
           <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-8-2.jfif') ?>" alt="Radio Studio 2"></div>
           <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-8-3.jfif') ?>" alt="Radio Broadcast 3"></div>
         </div>

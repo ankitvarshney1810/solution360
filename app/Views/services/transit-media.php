@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Our solutions leverage the high traffic and captive audience of public transportation to deliver impactful brand messages.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-10.png') ?>" alt="Transit Media"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/transit.png') ?>" alt="Transit Media"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">

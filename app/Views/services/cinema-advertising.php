@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Whether it's a 30-second pre-show ad or a creative slide in the interval, cinema advertising delivers unmatched attention in a premium, brand-safe environment.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-7.jfif') ?>" alt="Cinema Multiplex India"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/cinema.png') ?>" alt="Cinema Multiplex India"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">

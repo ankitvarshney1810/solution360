@@ -1,6 +1,6 @@
 <div class="page active" id="page-print">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-2.jfif') ?>" alt="Print Media Advertising"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/print02.jpeg') ?>" alt="Print Media Advertising"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Print Media</span></div>
       <h1 class="page-hero-title">Print <span style="color:var(--accent)">Media</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Solution360 has relationships with India's top publications — Times of India, Hindustan Times, Economic Times, Forbes India, and hundreds of regional titles — allowing us to place your brand at the centre of the conversation.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-3.jfif') ?>" alt="Newspaper Print Ad"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/printmedia.jpeg') ?>" alt="Newspaper Print Ad"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,7 +44,7 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-2.jfif') ?>" alt="Print Ad 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/print02.jpeg') ?>" alt="Print Ad 1"></div>
           <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-3-2.jfif') ?>" alt="Print Ad 2"></div>
           <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-2-3.jfif') ?>" alt="Print Ad 3"></div>
         </div>
