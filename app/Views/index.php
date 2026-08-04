@@ -59,6 +59,43 @@
     </div>
   </section>
 
+  <!-- Brand Logos -->
+  <section class="brands-section">
+    <div class="container">
+      <div class="text-center mb-5 reveal">
+        <div class="section-tag">Trusted By</div>
+        <h2 class="section-heading mx-auto">Brands That <span class="accent">Trust</span> Us</h2>
+        <p class="section-sub mx-auto mt-3">We have partnered with leading brands across industries to deliver high-impact offline campaigns.</p>
+      </div>
+      <div class="brands-grid reveal">
+        <img src="<?= base_url('assets/images/brand-icon/1.png') ?>" alt="Brand 1">
+        <img src="<?= base_url('assets/images/brand-icon/2.png') ?>" alt="Brand 2">
+        <img src="<?= base_url('assets/images/brand-icon/3.png') ?>" alt="Brand 3">
+        <img src="<?= base_url('assets/images/brand-icon/4.png') ?>" alt="Brand 4">
+        <img src="<?= base_url('assets/images/brand-icon/5.png') ?>" alt="Brand 5">
+        <img src="<?= base_url('assets/images/brand-icon/6.png') ?>" alt="Brand 6">
+        <img src="<?= base_url('assets/images/brand-icon/7.png') ?>" alt="Brand 7">
+        <img src="<?= base_url('assets/images/brand-icon/8.png') ?>" alt="Brand 8">
+        <img src="<?= base_url('assets/images/brand-icon/9.png') ?>" alt="Brand 9">
+        <img src="<?= base_url('assets/images/brand-icon/10.png') ?>" alt="Brand 10">
+        <img src="<?= base_url('assets/images/brand-icon/11.png') ?>" alt="Brand 11">
+        <img src="<?= base_url('assets/images/brand-icon/12.png') ?>" alt="Brand 12">
+        <img src="<?= base_url('assets/images/brand-icon/13.png') ?>" alt="Brand 13">
+        <img src="<?= base_url('assets/images/brand-icon/14.png') ?>" alt="Brand 14">
+        <img src="<?= base_url('assets/images/brand-icon/15.png') ?>" alt="Brand 15">
+        <img src="<?= base_url('assets/images/brand-icon/16.png') ?>" alt="Brand 16">
+        <img src="<?= base_url('assets/images/brand-icon/17.png') ?>" alt="Brand 17">
+        <img src="<?= base_url('assets/images/brand-icon/18.png') ?>" alt="Brand 18">
+        <img src="<?= base_url('assets/images/brand-icon/19.png') ?>" alt="Brand 19">
+        <img src="<?= base_url('assets/images/brand-icon/20.png') ?>" alt="Brand 20">
+        <img src="<?= base_url('assets/images/brand-icon/21.png') ?>" alt="Brand 21">
+        <img src="<?= base_url('assets/images/brand-icon/22.png') ?>" alt="Brand 22">
+        <img src="<?= base_url('assets/images/brand-icon/23.png') ?>" alt="Brand 23">
+        <img src="<?= base_url('assets/images/brand-icon/24.png') ?>" alt="Brand 24">
+      </div>
+    </div>
+  </section>
+
   <!-- Services Overview -->
   <section class="services-section">
     <div class="container">
