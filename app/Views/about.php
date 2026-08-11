@@ -19,7 +19,7 @@
         <div class="col-lg-6 reveal reveal-delay-1">
           <div class="section-tag">Our Story</div>
           <h2 class="section-heading mb-4">Born to Make Brands <span class="accent">Impossible to Ignore</span></h2>
-          <p style="color:var(--gray);font-size:0.92rem;line-height:1.85;margin-bottom:20px">Founded in 2014, Solution360 started with a simple belief: in a world flooded with digital noise, offline advertising remains one of the most powerful tools a brand can wield. We built our agency to master this art.</p>
+          <p style="color:var(--gray);font-size:0.92rem;line-height:1.85;margin-bottom:20px">Founded in 2021, Solution360 started with a simple belief: in a world flooded with digital noise, offline advertising remains one of the most powerful tools a brand can wield. We built our agency to master this art.</p>
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85;margin-bottom:32px">Today, we're one of India's most trusted offline advertising partners — serving startups, SMEs, and large enterprises with campaigns that span billboards, cinema screens, print publications, and radio waves.</p>
           <div class="value-item"><div class="value-icon"><i class="bi bi-eye-fill"></i></div><div><h6>Our Vision</h6><p>To be the most innovative and results-driven offline advertising agency in South Asia.</p></div></div>
           <div class="value-item"><div class="value-icon"><i class="bi bi-bullseye"></i></div><div><h6>Our Mission</h6><p>To engineer brand stories that resonate, campaigns that convert, and partnerships that last.</p></div></div>

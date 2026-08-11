@@ -228,34 +228,28 @@
       </div>
       <div class="portfolio-grid">
         <div class="portfolio-item reveal">
-          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/service/Outdoor02.png') ?>" alt="Outdoor Campaign Mumbai"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/Outdoor06.jpeg') ?>" alt="Outdoor Campaign"></div>
           <div class="portfolio-category-badge">Outdoor</div>
-          <div class="portfolio-overlay"><div><h5>TechCorp Highway Campaign</h5><span>Outdoor · Mumbai</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-1">
-          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-2.jfif') ?>" alt="Cinema Campaign Delhi"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-2.jfif') ?>" alt="Cinema Campaign"></div>
           <div class="portfolio-category-badge">Cinema</div>
-          <div class="portfolio-overlay"><div><h5>FashionBrand PVR Blitz</h5><span>Cinema · Delhi NCR</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-2">
-          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/service/print02.jpeg') ?>" alt="Print Media Campaign"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/media02.jpeg') ?>" alt="Print Media Campaign"></div>
           <div class="portfolio-category-badge">Print</div>
-          <div class="portfolio-overlay"><div><h5>FinTech TOI Full-Page</h5><span>Print · Pan India</span></div></div>
         </div>
         <div class="portfolio-item reveal">
-          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/service/radio02.jpeg') ?>" alt="Radio Campaign Bangalore"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/service/radio02.jpeg') ?>" alt="Radio Campaign"></div>
           <div class="portfolio-category-badge">Radio</div>
-          <div class="portfolio-overlay"><div><h5>EduTech FM Drive</h5><span>Radio · Bangalore</span></div></div>
         </div>
         <div class="portfolio-item reveal reveal-delay-1">
-          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-5.jfif') ?>" alt="360 Integrated Campaign Hyderabad"></div>
-          <div class="portfolio-category-badge" style="background:#1a1a1a">360°</div>
-          <div class="portfolio-overlay"><div><h5>RetailChain 360° Blitz</h5><span>Integrated · Hyderabad</span></div></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/newspaper04.jpg') ?>" alt="Newspaper Inserting"></div>
+          <div class="portfolio-category-badge">Newspaper Advertising</div>
         </div>
         <div class="portfolio-item reveal reveal-delay-2">
-          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/transit.png') ?>" alt="Transit Advertising Chennai"></div>
+          <div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/transit01.jpeg') ?>" alt="Transit Advertising"></div>
           <div class="portfolio-category-badge">Transit</div>
-          <div class="portfolio-overlay"><div><h5>Metro Transit Campaign</h5><span>Outdoor · Chennai</span></div></div>
         </div>
       </div>
       <div class="text-center mt-5 reveal">
