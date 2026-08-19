@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">It goes beyond traditional agricultural marketing to include selling urban-manufactured FMCG (Fast-Moving Consumer Goods), durables, and services to rural consumers, while also facilitating the flow of agricultural produce to urban markets.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-9.jpg') ?>" alt="Rural Marketing"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/rm-04.jpg') ?>" alt="Rural Marketing"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -43,9 +43,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-9.jpg') ?>" alt="Rural Marketing 1"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-9.jpg') ?>" alt="Rural Marketing 2"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-9-1.jpg') ?>" alt="Rural Marketing 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/rm-01.jpg') ?>" alt="Rural Marketing 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/rm-02.jpg') ?>" alt="Rural Marketing 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/rm-03.jpg') ?>" alt="Rural Marketing 3"></div>
         </div>
       </div>
     </div>

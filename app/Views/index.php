@@ -152,7 +152,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal reveal-delay-1">
           <a href="<?= base_url('services/customer-acquisition') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/service-widgit-5.jfif') ?>" alt="Customer Acquisition Campaigns Activities"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/cac-05.jpeg') ?>" alt="Customer Acquisition Campaigns Activities"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-people-fill"></i></div>
               <h4>Customer Acquisition Campaigns</h4>
@@ -175,7 +175,7 @@
         </div>
         <div class="col-sm-6 col-lg-4 reveal">
           <a href="<?= base_url('services/cinema-advertising') ?>" class="service-card">
-            <div class="service-card-img"><img src="<?= base_url('assets/images/cinema.png') ?>" alt="Cinema Advertising"></div>
+            <div class="service-card-img"><img src="<?= base_url('assets/images/ca-hero.jpeg') ?>" alt="Cinema Advertising"></div>
             <div class="service-card-body">
               <div class="service-card-icon"><i class="bi bi-camera-reels-fill"></i></div>
               <h4>Cinema Advertising</h4>

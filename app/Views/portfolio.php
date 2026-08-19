@@ -16,6 +16,7 @@
         <button class="filter-btn" onclick="filterPortfolio(this,'printmedia')">Print Media</button>
         <button class="filter-btn" onclick="filterPortfolio(this,'lookwalker')">Lookwalker</button>
         <button class="filter-btn" onclick="filterPortfolio(this,'outdoor')">Outdoor</button>
+        <button class="filter-btn" onclick="filterPortfolio(this,'customer-acquisition')">Customer Acquisition</button>
         <button class="filter-btn" onclick="filterPortfolio(this,'cinema')">Cinema</button>
         <button class="filter-btn" onclick="filterPortfolio(this,'transit')">Transit</button>
       </div>
@@ -56,8 +57,12 @@
         <div class="portfolio-item" data-cat="transit"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/transit04.jpeg') ?>" alt="Transit Campaign"></div><div class="portfolio-category-badge">Transit</div></div>
         <div class="portfolio-item" data-cat="transit"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/transit05.jpg') ?>" alt="Transit Campaign"></div><div class="portfolio-category-badge">Transit</div></div>
         <div class="portfolio-item" data-cat="transit"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio/transit06.jpg') ?>" alt="Transit Campaign"></div><div class="portfolio-category-badge">Transit</div></div>
-        <div class="portfolio-item" data-cat="cinema"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-2.jfif') ?>" alt="Cinema Campaign"></div><div class="portfolio-category-badge">Cinema</div><div class="portfolio-overlay"><div><h5>FashionBrand PVR Blitz</h5><span>Cinema · Delhi NCR</span></div></div></div>
-        <div class="portfolio-item" data-cat="cinema"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/portfolio-img-7.jfif') ?>" alt="Cinema Campaign 2"></div><div class="portfolio-category-badge">Cinema</div><div class="portfolio-overlay"><div><h5>Auto Brand INOX Launch</h5><span>Cinema · Pune</span></div></div></div>
+        <div class="portfolio-item" data-cat="customer-acquisition"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/cac-01.jpg') ?>" alt="Customer Acquisition Campaign"></div><div class="portfolio-category-badge">Customer Acquisition</div></div>
+        <div class="portfolio-item" data-cat="customer-acquisition"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/cac-02.jpg') ?>" alt="Customer Acquisition Campaign"></div><div class="portfolio-category-badge">Customer Acquisition</div></div>
+        <div class="portfolio-item" data-cat="customer-acquisition"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/cac-03.jpg') ?>" alt="Customer Acquisition Campaign"></div><div class="portfolio-category-badge">Customer Acquisition</div></div>
+        <div class="portfolio-item" data-cat="customer-acquisition"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/cac-05.jpeg') ?>" alt="Customer Acquisition Campaign"></div><div class="portfolio-category-badge">Customer Acquisition</div></div>
+        <div class="portfolio-item" data-cat="cinema"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/ca-hero.jpeg') ?>" alt="Cinema Campaign"></div><div class="portfolio-category-badge">Cinema</div></div>
+        <div class="portfolio-item" data-cat="cinema"><div class="portfolio-item-bg"><img src="<?= base_url('assets/images/ca-02.jpeg') ?>" alt="Cinema Campaign 2"></div><div class="portfolio-category-badge">Cinema</div></div>
       </div>
       <div class="text-center mt-5 reveal"><a href="<?= base_url('main/contact') ?>" class="btn-accent">Start Your Campaign <i class="bi bi-arrow-right"></i></a></div>
     </div>

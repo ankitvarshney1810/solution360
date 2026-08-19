@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Whether it's a 30-second pre-show ad or a creative slide in the interval, cinema advertising delivers unmatched attention in a premium, brand-safe environment.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/cinema.png') ?>" alt="Cinema Multiplex India"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/ca-hero.jpeg') ?>" alt="Cinema Multiplex India"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-7-1.jfif') ?>" alt="Cinema 1"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-7-2.jfif') ?>" alt="Cinema 2"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-7-3.jfif') ?>" alt="Cinema 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/ca-01.jpeg') ?>" alt="Cinema 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/ca-02.jpeg') ?>" alt="Cinema 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/ca-03.jfif') ?>" alt="Cinema 3"></div>
         </div>
       </div>
     </div>

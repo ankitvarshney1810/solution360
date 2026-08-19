@@ -63,7 +63,7 @@
             <div style="border-top:1px solid rgba(255,255,255,0.08);padding-top:24px;margin-top:8px">
               <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.35);margin-bottom:14px">Our Strengths</div>
               <div style="display:flex;flex-direction:column;gap:10px">
-                <div style="display:flex;align-items:center;gap:10px;font-size:0.82rem;color:rgba(255,255,255,0.65)"><i class="bi bi-check-circle-fill" style="color:var(--accent)"></i> 10+ Years Experience</div>
+                <div style="display:flex;align-items:center;gap:10px;font-size:0.82rem;color:rgba(255,255,255,0.65)"><i class="bi bi-check-circle-fill" style="color:var(--accent)"></i> 5+ Years Experience</div>
                 <div style="display:flex;align-items:center;gap:10px;font-size:0.82rem;color:rgba(255,255,255,0.65)"><i class="bi bi-check-circle-fill" style="color:var(--accent)"></i> 500+ Successful Campaigns</div>
                 <div style="display:flex;align-items:center;gap:10px;font-size:0.82rem;color:rgba(255,255,255,0.65)"><i class="bi bi-check-circle-fill" style="color:var(--accent)"></i> Pan-India Network (18+ Cities)</div>
                 <div style="display:flex;align-items:center;gap:10px;font-size:0.82rem;color:rgba(255,255,255,0.65)"><i class="bi bi-check-circle-fill" style="color:var(--accent)"></i> Transparent Pricing & Reporting</div>

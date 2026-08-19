@@ -17,7 +17,11 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Solution360 works with all leading FM networks — Radio Mirchi, Red FM, Big FM, and more — to create and place jingles, spots, and sponsorships that make your brand unmissable on the airwaves.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/radio.jpeg') ?>" alt="Radio Studio India"></div>
+          <div class="service-detail-img video-container">
+              <video width="100%" height="100%" controls>
+                <source src="<?= base_url('assets/images/radio-hero.mp4') ?>" type="video/mp4">
+              </video>
+          </div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +48,21 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/radio02.jpeg') ?>" alt="Radio Studio 1"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-8-2.jfif') ?>" alt="Radio Studio 2"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-8-3.jfif') ?>" alt="Radio Broadcast 3"></div>
+          <div class="service-gallery-item video-container">
+            <video width="100%" height="100%" controls>
+              <source src="<?= base_url('assets/images/radio-01.mp4') ?>" type="video/mp4">
+            </video>
+          </div>
+          <div class="service-gallery-item video-container">
+            <video width="100%" height="100%" controls>
+              <source src="<?= base_url('assets/images/radio-02.mp4') ?>" type="video/mp4">
+            </video>
+          </div>
+          <div class="service-gallery-item video-container">
+            <video width="100%" height="100%" controls>
+              <source src="<?= base_url('assets/images/radio-03.mp4') ?>" type="video/mp4">
+            </video>
+          </div>
         </div>
       </div>
     </div>

@@ -505,9 +505,9 @@ body {
 }
 
 .hero-visual-card {
-	background: rgba(255, 255, 255, 0.04);
+	/* background: rgba(255, 255, 255, 0.04);
 	border: 1px solid rgba(255, 255, 255, 0.08);
-	border-radius: 12px;
+	border-radius: 12px; */
 	position: relative;
 }
 
@@ -522,6 +522,7 @@ body {
 	height: 100%;
 	object-fit: cover;
 	opacity: 0.85;
+	box-shadow: 0 0 4px 16px #ffffff40;
 }
 
 .hero-floating-badge {
@@ -1444,6 +1445,10 @@ body {
 
 .service-gallery-item:hover img {
 	transform: scale(1.06);
+}
+
+.video-container{
+	background-color: #0D0D0D;
 }
 
 /* CONTACT FORM */

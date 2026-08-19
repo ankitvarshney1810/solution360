@@ -1,6 +1,6 @@
 <div class="page active" id="page-customeracq">
   <section class="page-hero">
-    <div class="page-hero-img"><img src="<?= base_url('assets/images/service/service-banner-5.jfif') ?>" alt="Customer Acquisition Campaigns Activities"></div>
+    <div class="page-hero-img"><img src="<?= base_url('assets/images/cac-04.jpg') ?>" alt="Customer Acquisition Campaigns Activities"></div>
     <div class="container position-relative">
       <div class="page-hero-breadcrumb"><a href="<?= base_url('main') ?>">Home</a><i class="bi bi-chevron-right"></i><span>Services</span><i class="bi bi-chevron-right"></i><span class="current">Customer Acquisition Campaigns</span></div>
       <h1 class="page-hero-title">Customer <span style="color:var(--accent)">Acquisition</span></h1>
@@ -17,7 +17,7 @@
           <p style="color:var(--gray);font-size:0.92rem;line-height:1.85">Whether it's door-to-door campaigns, product sampling, street activations, kiosk setups, or referral drives within RWAs and housing societies — we build a pipeline of real customers for your brand.</p>
         </div>
         <div class="col-lg-6 reveal reveal-delay-1">
-          <div class="service-detail-img"><img src="<?= base_url('assets/images/service/service-hero-5.jfif') ?>" alt="On-Ground Customer Activation"></div>
+          <div class="service-detail-img"><img src="<?= base_url('assets/images/cac-05.jpeg') ?>" alt="On-Ground Customer Activation"></div>
         </div>
       </div>
       <div class="row g-5 mb-5">
@@ -44,9 +44,9 @@
       <div class="reveal">
         <h3 class="section-heading mb-4">Campaign <span class="accent">Gallery</span></h3>
         <div class="service-gallery">
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-banner-5.jfif') ?>" alt="Activation 1"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-hero-5.jfif') ?>" alt="Activation 2"></div>
-          <div class="service-gallery-item"><img src="<?= base_url('assets/images/service/service-5-3.jfif') ?>" alt="Activation 3"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/cac-01.jpg') ?>" alt="Activation 1"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/cac-02.jpg') ?>" alt="Activation 2"></div>
+          <div class="service-gallery-item"><img src="<?= base_url('assets/images/cac-03.jpg') ?>" alt="Activation 3"></div>
         </div>
       </div>
     </div>
